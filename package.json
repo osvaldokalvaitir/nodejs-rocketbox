@@ -1,0 +1,19 @@
+{
+  "name": "node-rocketbox",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/osvaldokalvaitir/node-rocketbox.git",
+  "author": "Osvaldo Kalvaitir Filho <osvaldokalvaitir@outlook.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon src/server.js",
+    "start": "node src/server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.5.13"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
