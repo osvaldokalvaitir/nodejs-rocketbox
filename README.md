@@ -1,12 +1,12 @@
 # Node - RocketBox
 
-[![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/osvaldokalvaitir/node-rocketbox/blob/master/LICENSE)
-![](https://img.shields.io/github/package-json/v/osvaldokalvaitir/node-rocketbox.svg)
-![](https://img.shields.io/github/last-commit/osvaldokalvaitir/node-rocketbox.svg?color=red)
-![](https://img.shields.io/github/languages/top/osvaldokalvaitir/node-rocketbox.svg?color=yellow)
-![](https://img.shields.io/github/languages/count/osvaldokalvaitir/node-rocketbox.svg?color=lightgrey)
-![](https://img.shields.io/github/languages/code-size/osvaldokalvaitir/node-rocketbox.svg)
-![](https://img.shields.io/github/repo-size/osvaldokalvaitir/node-rocketbox.svg?color=blueviolet)
+[![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/osvaldokalvaitir/nodejs-rocketbox/blob/master/LICENSE)
+![](https://img.shields.io/github/package-json/v/osvaldokalvaitir/nodejs-rocketbox.svg)
+![](https://img.shields.io/github/last-commit/osvaldokalvaitir/nodejs-rocketbox.svg?color=red)
+![](https://img.shields.io/github/languages/top/osvaldokalvaitir/nodejs-rocketbox.svg?color=yellow)
+![](https://img.shields.io/github/languages/count/osvaldokalvaitir/nodejs-rocketbox.svg?color=lightgrey)
+![](https://img.shields.io/github/languages/code-size/osvaldokalvaitir/nodejs-rocketbox.svg)
+![](https://img.shields.io/github/repo-size/osvaldokalvaitir/nodejs-rocketbox.svg?color=blueviolet)
 [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
 ![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
 
