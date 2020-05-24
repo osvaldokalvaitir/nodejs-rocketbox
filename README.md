@@ -1,4 +1,4 @@
-# Node - RocketBox
+# Node.js - RocketBox
 
 [![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/osvaldokalvaitir/nodejs-rocketbox/blob/master/LICENSE)
 ![](https://img.shields.io/github/package-json/v/osvaldokalvaitir/nodejs-rocketbox.svg)
