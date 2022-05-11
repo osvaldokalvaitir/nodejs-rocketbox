@@ -1,88 +1,59 @@
-# Node.js - RocketBox
+<h1 align="center">
+    <img src="/.github/assets/logo.svg"
+    width="400px"
+    alt="Logo" />
+</h1>
 
-[![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/osvaldokalvaitir/nodejs-rocketbox/blob/master/LICENSE)
-![](https://img.shields.io/github/package-json/v/osvaldokalvaitir/nodejs-rocketbox.svg)
-![](https://img.shields.io/github/last-commit/osvaldokalvaitir/nodejs-rocketbox.svg?color=red)
-![](https://img.shields.io/github/languages/top/osvaldokalvaitir/nodejs-rocketbox.svg?color=yellow)
-![](https://img.shields.io/github/languages/count/osvaldokalvaitir/nodejs-rocketbox.svg?color=lightgrey)
-![](https://img.shields.io/github/languages/code-size/osvaldokalvaitir/nodejs-rocketbox.svg)
-![](https://img.shields.io/github/repo-size/osvaldokalvaitir/nodejs-rocketbox.svg?color=blueviolet)
-[![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
-![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
+<h3 align="center">
+  Node.js - RocketBox
+</h3>
 
-Aplicação RocketBox usando Node.js, Express, Multer, Socket.io, Mongoose, MongoDB Atlas, GitHub e Heroku.
+<p align="center">
+  :package: Application using Node.js, Express, Multer, Socket.io, Mongoose, MongoDB Atlas, GitHub and Heroku
+</p>
 
-## Índice
+<p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/osvaldokalvaitir/nodejs-rocketbox.svg?color=00A83A">
 
-- [Desenvolvimento](#desenvolvimento)
+  <img alt="GitHub language top" src="https://img.shields.io/github/languages/top/osvaldokalvaitir/nodejs-rocketbox.svg?color=00A83A">
 
-  - [Configuração do Ambiente](#configuração-do-ambiente)
+  <a href="https://kalvaitir.com/">
+    <img alt="Made by Kalvaitir" src="https://img.shields.io/badge/made%20by-Kalvaitir-00A83A">
+  </a>
 
-  - [Instalação do Projeto](#instalação-do-projeto)
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-00A83A">
+</p>
 
-  - [Execução do Projeto](#execução-do-projeto)
+<p align="center">
+  <a href="#wrench-install-and-run">Install and run</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="#memo-license">License</a>
+</p>
 
-- [Utilizados no Projeto](#utilizados-no-projeto)
+## :wrench: Install and run
 
-  - [Bibliotecas](#bibliotecas)
-  
-  - [APIs](#apis)  
+Open terminal:
 
-  - [Ferramentas](#ferramentas)
+```sh
+# Clone this repo
+git clone https://github.com/osvaldokalvaitir/nodejs-rocketbox
 
-## Desenvolvimento
+# Entry in folder
+cd nodejs-rocketbox
 
-### Configuração do Ambiente
+# Install deps with npm or yarn
+npm install | yarn
 
-Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/README.md) e siga `Configuração de Ambiente`.
+# Launch the app with npm or yarn
+npm dev | yarn dev
+```
 
-### Instalação do Projeto
+Click to learn more about the tools used: [Git](https://github.com/osvaldokalvaitir/awesome/blob/main/src/version-controls/git/git.md), [GitHub](https://github.com/osvaldokalvaitir/awesome/blob/main/src/version-controls/git/tools/github.md), [Heroku](https://github.com/osvaldokalvaitir/awesome/blob/main/src/paas/heroku.md), [Insomnia](https://github.com/osvaldokalvaitir/awesome/blob/main/src/api-clients/insomnia/insomnia.md), [MongoDB Atlas](https://github.com/osvaldokalvaitir/awesome/blob/main/src/sgdbs/mongodb/mongodb-atlas.md).
 
-Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/nodejs.md) e siga `Instalação de Projeto`.
+## :memo: License
 
-### Execução do Projeto
+This project is under the MIT license. See [LICENSE](/LICENSE) for more information.
 
-Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/nodejs.md) e siga `Execução de Projeto para Desenvolvimento` ou `Execução de Projeto para Produção`.
+---
 
-## Utilizados no Projeto
-
-### Bibliotecas
-
-- [CORS](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/cors.md)
-
-- [Express](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/express.md)
-
-- [Mongoose](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/mongoose.md)
-
-- [Nodemon](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/nodemon.md)
-
-- [Multer](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/multer.md)
-
-- [Socket.io](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/socketio.md)
-
-### APIs
-
-- **Interna**
-
-  - **Rotas**
-
-    - Boxes
-
-      - Adiciona novos boxes
-      - Lista todos os dados de um box
-
-    - Arquivos
-
-      - Adiciona novos arquivos para um box
-
-### Ferramentas
-
-- [Git](https://github.com/osvaldokalvaitir/projects-settings/blob/master/version-control/git.md)
-
-- [GitHub](https://github.com/osvaldokalvaitir/projects-settings/blob/master/version-control/github.md)
-
-- [Heroku](https://github.com/osvaldokalvaitir/projects-settings/blob/master/paas/heroku.md)
-
-- [Insomnia](https://github.com/osvaldokalvaitir/projects-settings/blob/master/api-client/insomnia.md)
-
-- [MongoDB Atlas](https://github.com/osvaldokalvaitir/projects-settings/blob/master/database/mongodb/mongodb-atlas.md)
+<p align="center">
+Developed with 💚 by <a href="https://www.linkedin.com/in/osvaldokalvaitir">Osvaldo Kalvaitir Filho</a>
+</p>
