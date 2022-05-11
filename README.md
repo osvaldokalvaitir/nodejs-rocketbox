@@ -9,7 +9,7 @@
 </h3>
 
 <p align="center">
-  :package: Application using Node.js, Express, Multer, Socket.io, Mongoose, MongoDB Atlas, GitHub and Heroku
+  :package: Application using Node.js, Express, Multer, Socket.io, Mongoose, MongoDB Atlas, Insomnia, Git, GitHub and Heroku
 </p>
 
 <p align="center">
